@@ -6,7 +6,7 @@
 Shibui Elements è un marchio che fonde l'eleganza senza tempo dell'arte giapponese con la modernità del commercio online. I nostri capi d'abbigliamento sono ispirati alle opere iconiche di artisti come Hiroshige e Hokusai, celebri per le loro straordinarie stampe che catturano l'essenza e la bellezza del Giappone tradizionale. Scegliere Shibui Elements significa abbracciare la fusione tra tradizione e innovazione, indossando pezzi che raccontano una storia ricca di cultura e significato.
 
 
-### Filosofia del Brand:
+#### Filosofia del Brand:
 
 - Stile Shibui: La nostra filosofia si basa sull'estetica giapponese "Shibui", che celebra la bellezza dell'essenziale, la semplicità sofisticata e l'understatement.
 - Sostenibilità: Crediamo nella moda responsabile e ci impegniamo a ridurre il nostro impatto ambientale utilizzando materiali sostenibili e processi produttivi eco-compatibili.
